@@ -5,8 +5,8 @@ const Header = () => {
   return <header className='py-8'>
     <div className="container mx-auto">
       <div className='flex justify-between items-center'>
-        <a className='text-4xl font-bold' href="#">Suh<span className='text-accent'>Reed</span></a>
-        <button className='btn btn-sm'>Work with me</button>
+        <a className='text-4xl font-bold' href="#"><span className='text-accent'>Reed</span></a>
+        <button className='btn btn-sm'>What I can help you with</button>
       </div>
     </div>
     </header>;

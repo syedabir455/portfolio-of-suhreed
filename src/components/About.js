@@ -11,7 +11,7 @@ const About = () => {
   return <div className='section' id='about' ref={ref}>
     <div className="container mx-auto">
       <div>
-        <div className='flex-1 bg-about bg-contain bg-no-repeat h-[640px]'>img</div>
+        <div className='flex-1 bg-about bg-contain bg-no-repeat h-[640px]'><img src="../assets/reed-3.png" alt="" /></div>
         <div>text</div>
       </div>
     </div>
